@@ -30,15 +30,15 @@ requests.urllib3.disable_warnings()
 
 # Initial setup and promotion
 os.system('clear')
-print(' \x1b[38;5;46mRAJA SERVER LOADING....')
+print(' \x1b[38;5;46mQING SERVER LOADING....')
 
 
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://youtube.com/shorts/XsWCbPVjKpI?si=pN1GPIoCkwJmzG88')
-os.system('xdg-open https://youtube.com/shorts/XsWCbPVjKpI?si=pN1GPIoCkwJmzG88')
+os.system('xdg-open https://youtube.com/@qingtricker?si=GcJKEYcq3Ah9O6hm')
+os.system('xdg-open https://youtube.com/@qingtricker?si=GcJKEYcq3Ah9O6hm')
 # --- RAJA NEON COLOR THEME ---
 R = "\033[0m"
 B = "\033[1m"
